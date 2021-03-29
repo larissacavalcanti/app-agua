@@ -13,9 +13,6 @@ A base de registros de ocorrências(denúncias) realizados pelos cidadãos no ap
 - Compartilhamento de registros em redes sociais (facebook, whatsapp)
 - Pesquisa e filtro para apresentação de resultados por região (a priori, cidades e bairros da região metropolitana de Pernambuco)
 
-## GIT CLONE
-https://github.com/larissacavalcanti/app-agua.git
-
 ## AJUDA
 Para obter ajuda e/ou tirar dúvidas, entre em contato com o desenvolver através do e-mail:
 
