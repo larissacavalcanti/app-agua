@@ -1,6 +1,10 @@
 ## APP Água, eu cuido
 Aplicativo para registro e acompanhamento de pontos de desperdício de água limpa e/ou vazamentos de esgoto.
 
+## LOGO APP
+
+![image](https://user-images.githubusercontent.com/81537997/116015929-6d19e300-a611-11eb-91ba-a8984344324a.png)
+
 ## SOBRE O APP
 Este App foi idealizado com o objetivo de engajar a sociedade no acompanhamento e combate ao desperdício de água limpa e/ou vazamento de esgoto, bem como permitir a identificação de locais com maiores incidências.
 
